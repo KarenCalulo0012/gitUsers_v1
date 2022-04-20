@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/63910/.gradle/caches/transforms-3/7325ca0e8d1e62bc57976dacc98ec75a/transformed/core-1.7.0/res/drawable-v21/notification_action_background.xml" value="0.239" />
+        <entry key="..\:/Users/63910/.gradle/caches/transforms-3/cd1a1b5caaae39d17dcd4712e1aa45a1/transformed/appcompat-resources-1.4.1/res/drawable/abc_vector_test.xml" value="0.255" />
+        <entry key="..\:/Users/63910/AndroidStudioProjects/Android Tutorials/gitCloneApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2135" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
