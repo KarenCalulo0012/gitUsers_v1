@@ -30,7 +30,7 @@ fun UserListScreen(
                 UserListItem(
                     users = users,
                     onItemClick = {
-                        navController.navigate(Screen.UserDetailScreen.route)
+                        navController.navigate(Screen.UserDetailScreen.route + "/${users.login}")
                     }
                 )
             }

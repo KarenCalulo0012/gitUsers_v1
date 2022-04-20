@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
                         composable(route = Screen.UserListScreen.route) {
                             UserListScreen(navController)
                         }
-                        composable(route = Screen.UserDetailScreen.route) {
+                        composable(route = Screen.UserDetailScreen.route + "/{username}") {
                             UserDetailScreen()
                         }
                     }
